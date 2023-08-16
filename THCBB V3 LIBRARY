@@ -1,0 +1,1206 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("THCBB | |Owner Norbert/Test666 hubs", "Sentinel")
+
+local Tab = Window:NewTab("CREDITS")
+local Section = Tab:NewSection("CREDITS :)")
+local Section = Tab:NewSection("CODER AND GUI OWNER")
+local Section = Tab:NewSection("Kavo UI Library")
+local Section = Tab:NewSection("HUB/LIBRARY OWNER")
+local Section = Tab:NewSection("NORBERT/DarkNorbert09")
+local Section = Tab:NewSection("SCRIPT and HUB CREDITS")
+local Section = Tab:NewSection("Scripts and hub Credits goes to respected owners")
+local Section = Tab:NewSection("Thank you for using THCBB")
+local Section = Tab:NewSection("This Hub is getting update soon")
+local Section = Tab:NewSection("Current Version V3")
+local Section = Tab:NewSection("WHAT'S NEW? V3")
+Section:NewButton("Check in rhe console", "Check in the console", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Check it in the console !console or /console depends what special bind you had.";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  
+    print("Remove patched script, added 10+ script/hub, little adjustment, Null remove, Remove tab trolling...")
+end)
+
+
+
+local Tab = Window:NewTab("Library Script")
+local Section = Tab:NewSection("Library scripts | Some of them will not worked")
+Section:NewButton("Auto piano|PandaHub", "By pandaHub subscribe him:)", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/MADNESSTEST/iq8if/main/owodjjb.lua", true))()
+    print("Clicked")
+end)
+Section:NewButton("R20 SLAP BATTLE", "Farming", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/cheesynob39/R2O/main/LOADSTRING.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("Raise A floppa 2	", "Uh yes another day", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/tip52/Leo-hub/main/loader.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("Bob SLB farm", "Farming", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/thanhdat4461/BaconScripterLua/main/Slap%20Battles%20Bob%20Fram.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("Ability Wars", "Hack on it", function()
+   game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/dasdres/dasdres-hub/main/LOADSTRING.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("Arsenal", "By Owl hub", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+    print("Clicked")
+end)
+Section:NewButton("Arm wrestler simulator", "Hub", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+   loadstring(game:HttpGet(('https://raw.githubusercontent.com/ZeltRblx/Sena/main/Loader'), true))() 
+    print("Clicked")
+end)
+Section:NewButton("Breaking point", "Farm", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ColdStep2/Breaking-Point-Funny-Squid-Hax/main/Breaking%20Point%20Funny%20Squid%20Hax",true))();
+    print("Clicked")
+end)
+Section:NewButton("Build a boat for treasure", "farm", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua'))()
+    print("Clicked")
+end)
+Section:NewButton("Blox fruit", "farm", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
+    print("Clicked")
+end)
+Section:NewButton("Babft copy/paste", "steal other works", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/max2007killer/auto-build-not-limit/main/autobuild.txt"))()
+    print("Clicked")
+end)
+Section:NewButton("Bedwars no script yet!!!", "Neow?", function()
+  
+    print("Clicked")
+end)
+Section:NewButton("Combat warrior", "Exploit", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ditchmethis/Lumware-Combat-Warriors-/main/lumware_updated.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("DOORS fixed	", "Uh yes another day", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/CreepyPSC/dxrkhub/main/doors-scripts/hub-source"))()
+    print("Clicked")
+end)
+Section:NewButton("Da hood", "Aura etc", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  -- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+-- https://discord.gg/rTgRJrqFdT
+
+
+--// KAL SKIDDED THIS SHIT! HE DIDNT MADE THIS BTW
+    Settings = {
+        Kalslock = {
+        Enabled = true,
+        Key = "q",
+        showdot = true,
+        airshots = true,
+        notifaction = true,
+        pingprediction = true,
+        FOV = math.huge,
+        RESOVLER = true,
+        Tracer = true,
+        TracerColor = Color3.new(0, 255, 238),
+        TracerTransparency = 0.75,
+        TracerThickness = 5,
+        Circles = false,
+        CircleFOV = 500,
+        CircleColor = Color3.new(255, 255, 255),
+        CircleThickness = 2,
+        CircleFilled = true,
+        CircleTransparency = 0.10,
+        CircleTransparencyOutline = 0,
+        OutlineColor = Color3.new(255, 255, 255),
+        Texts = false, 
+        TextColor = Color3.new(255, 255, 255),
+        TextSize = 35,
+        TextInput = "skidded",
+        Hitbox = true,
+        NoBulletDelay = false,
+        Autoclicker = false,
+        AutoclickerTime = 0.01,
+        AutoclickerKey = "v",
+        AnimationPack = false
+    
+}
+}
+
+--[[
+    Parts - / HumanoidRootPart / LowerTorso / UpperTorso / Head 
+]]
+
+        local SelectedPart = "HumanoidRootPart"
+        local Prediction = true
+        local PredictionValue = 0.132
+        
+
+
+ local AnchorCount = 0
+            local MaxAnchor = 50
+
+                local CC = game:GetService"Workspace".CurrentCamera
+                    local Plr;
+                        local enabled = false
+                            local accomidationfactor = 0.132
+                local mouse = game.Players.LocalPlayer:GetMouse()
+                    
+                            local Inset = game:GetService("GuiService"):GetGuiInset().Y
+                local Line = Drawing.new("Line")
+                    local Text = Drawing.new("Text")
+                          local Circle = Drawing.new("Circle")
+                          local Circle1 = Drawing.new("Circle")
+                          
+                          
+                           _G.Types = {
+            Ball = Enum.PartType.Ball,
+            Block = Enum.PartType.Block, 
+            Cylinder = Enum.PartType.Cylinder
+        }
+                          
+                          local placemarker = Instance.new("Part", game.Workspace)
+                          placemarker.Shape = _G.Types.Ball
+                          placemarker.Material = "ForceField"
+                          placemarker.Color = Color3.new(0, 1, 1)
+
+    function makemarker(Parent, Adornee, Color, Size, Size2)
+        local e = Instance.new("BillboardGui", Parent)
+        e.Name = "PP"
+        e.Adornee = Adornee
+        e.Size = UDim2.new(Size, Size2, Size, Size2)
+        e.AlwaysOnTop = Settings.Kalslock.showdot
+        local a = Instance.new("Frame", e)
+        if Settings.Kalslock.showdot == true then
+        a.Size = UDim2.new(1, 0, 1, 0)
+        else
+        a.Size = UDim2.new(0, 0, 0, 0)
+        end
+        if Settings.Kalslock.showdot == true then
+        a.Transparency = 0
+        a.BackgroundTransparency = 0
+        else
+        a.Transparency = 1
+        a.BackgroundTransparency = 1
+        end
+        a.BackgroundColor3 = Color
+        local g = Instance.new("UICorner", a)
+        if Settings.Kalslock.showdot == false then
+        g.CornerRadius = UDim.new(0, 0)
+        else
+        g.CornerRadius = UDim.new(1, 1) 
+        end
+        return(e)
+    end
+
+    
+    local data = game.Players:GetPlayers()
+    function noob(player)
+        local character
+        repeat wait() until player.Character
+        local handler = makemarker(guimain, player.Character:WaitForChild(SelectedPart), Color3.fromRGB(0, 255, 229), 0.3, 3)
+        handler.Name = player.Name
+        player.CharacterAdded:connect(function(Char) handler.Adornee = Char:WaitForChild(SelectedPart) end)
+
+
+        spawn(function()
+            while wait() do
+                if player.Character then
+                end
+            end
+        end)
+    end
+
+    for i = 1, #data do
+        if data[i] ~= game.Players.LocalPlayer then
+            noob(data[i])
+        end
+    end
+
+    game.Players.PlayerAdded:connect(function(Player)
+        noob(Player)
+    end)
+
+    spawn(function()
+        placemarker.Anchored = true
+        placemarker.CanCollide = false
+        if Settings.Kalslock.showdot == true then
+        placemarker.Size = Vector3.new(11, 11, 11)
+        else
+        placemarker.Size = Vector3.new(0, 0, 0)
+        end
+        if Settings.Kalslock.Hitbox == true then
+        placemarker.Transparency = 0.30
+        else
+        placemarker.Transparency = 1
+        end
+        if Settings.Kalslock.showdot then
+        makemarker(placemarker, placemarker, Color3.fromRGB(0, 255, 238), 0.80, 0)
+        end
+    end)
+
+    game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(k)
+        if k == Settings.Kalslock.Key and Settings.Kalslock.Enabled then
+            if enabled == true then
+                enabled = false
+                if Settings.Kalslock.notifaction == true then
+                    Plr = getClosestPlayerToCursor()
+                game.StarterGui:SetCore("SendNotification", {
+                    Title = "Kal Skidded This";
+                    Text = "  Unlocked",
+                    Icon = "http://www.roblox.com/asset/?id=5314810647",
+                    Duration = 3
+                })
+            end
+            else
+                Plr = getClosestPlayerToCursor()
+                enabled = true
+                if Settings.Kalslock.notifaction == true then
+
+                    game.StarterGui:SetCore("SendNotification", {
+                        Title = "Kal Skidded This";
+                        Text = "  Target: "..tostring(Plr.Character.Humanoid.DisplayName),
+                        Icon = "http://www.roblox.com/asset/?id=8709610734",
+                        Duration = 3
+                    })
+
+                end
+            end
+        end
+    end)
+
+
+
+    function getClosestPlayerToCursor()
+        local closestPlayer
+        local shortestDistance = Settings.Kalslock.FOV
+
+        for i, v in pairs(game.Players:GetPlayers()) do
+            if v ~= game.Players.LocalPlayer and v.Character and v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health ~= 0 and v.Character:FindFirstChild("HumanoidRootPart") then
+                local pos = CC:WorldToViewportPoint(v.Character.PrimaryPart.Position)
+                local magnitude = (Vector2.new(pos.X, pos.Y) - Vector2.new(mouse.X, mouse.Y)).magnitude
+                if magnitude < shortestDistance then
+                    closestPlayer = v
+                    shortestDistance = magnitude
+                end
+            end
+        end
+        return closestPlayer
+    end
+
+    local pingvalue = nil;
+    local split = nil;
+    local ping = nil;
+
+    game:GetService"RunService".Stepped:connect(function()
+        if enabled and Plr.Character ~= nil and Plr.Character:FindFirstChild("HumanoidRootPart") then
+            placemarker.CFrame = CFrame.new(Plr.Character.HumanoidRootPart.Position)
+                            local Vector1 = CC:WorldToViewportPoint(Plr.Character.HumanoidRootPart.Position)
+            Line.Color = Settings.Kalslock.TracerColor
+                Line.Transparency = Settings.Kalslock.TracerTransparency
+                Line.Thickness = Settings.Kalslock.TracerThickness
+                Line.From = Vector2.new(mouse.X, mouse.Y + Inset)
+                Line.To = Vector2.new(Vector1.X, Vector1.Y)
+                Line.Visible = Settings.Kalslock.Tracer
+                Text.Position = Vector2.new(mouse.X, mouse.Y + Inset)
+                Text.Visible = Settings.Kalslock.Texts
+                Text.Center = true
+                Text.Outline = true
+                Text.Font = 1
+                Text.Size = Settings.Kalslock.TextSize
+                Text.Color = Settings.Kalslock.TextColor
+                Text.Text = Settings.Kalslock.TextInput
+                Circle.Position = Vector2.new(mouse.X, mouse.Y + Inset)
+                Circle.Visible = Settings.Kalslock.Circles
+                Circle.Thickness = 1.5
+                Circle.Thickness = Settings.Kalslock.CircleThickness
+                Circle.Radius = Settings.Kalslock.CircleFOV
+                Circle.Color = Settings.Kalslock.CircleColor
+                Circle.Filled = Settings.Kalslock.CircleFilled
+                Circle.Transparency = Settings.Kalslock.CircleTransparency
+                Circle1.Visible = true
+                Circle1.Radius = Settings.Kalslock.CircleTransparencyOutline
+                Circle1.Position = Vector2.new(mouse.X, mouse.Y + Inset)
+                Circle1.Thickness = 5
+                Circle1.Color = Settings.Kalslock.OutlineColor
+
+        else
+                Circle.Visible = false
+                Line.Visible = false
+                Text.Visible = false
+                Circle1.Visible = false
+            placemarker.CFrame = CFrame.new(0, 9999, 0)
+        end
+        if Settings.Kalslock.pingprediction == true then
+             pingvalue = game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValueString()
+             split = string.split(pingvalue,'(')
+             ping = tonumber(split[1])
+            if ping < 130 then
+                PredictionValue = 0.151
+            elseif ping < 125 then
+                PredictionValue = 0.149
+            elseif ping < 110 then
+                PredictionValue = 0.146
+            elseif ping < 105 then
+                PredictionValue = 0.138
+            elseif ping < 90 then
+                PredictionValue = 0.136
+            elseif ping < 80 then
+                PredictionValue = 0.134
+            elseif ping < 70 then
+                PredictionValue = 0.131
+            elseif ping < 60 then
+                PredictionValue = 0.1229
+            elseif ping < 50 then
+                PredictionValue = 0.1225
+            elseif ping < 40 then
+                PredictionValue = 0.1256
+            end
+        end
+    end)
+
+    local mt = getrawmetatable(game)
+    local old = mt.__namecall
+    setreadonly(mt, false)
+    mt.__namecall = newcclosure(function(...)
+        local args = {...}
+        if enabled and getnamecallmethod() == "FireServer" and args[2] == "UpdateMousePos" and Settings.Kalslock.Enabled and Plr.Character ~= nil then
+
+            -- args[3] = Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*accomidationfactor)
+            --[[
+            if Settings.Kalslock.airshots == true then
+                if game.Workspace.Players[Plr.Name].Humanoid:GetState() == Enum.HumanoidStateType.Freefall then -- Plr.Character:WaitForChild("Humanoid"):GetState() == Enum.HumanoidStateType.Freefall
+                    
+                    --// Airshot
+                    args[3] = Plr.Character.LeftFoot.Position+(Plr.Character.LeftFoot.Velocity*PredictionValue)
+
+                else
+                    args[3] = Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*PredictionValue)
+
+                end
+            else
+    args[3] = Plr.Character.HumanoidRootPart.Position+(Plr.Character.HumanoidRootPart.Velocity*PredictionValue)
+    end
+    ]]
+    if Prediction == true then
+                
+    args[3] = Plr.Character[SelectedPart].Position+(Plr.Character[SelectedPart].Velocity*PredictionValue)
+
+    else
+
+    args[3] = Plr.Character[SelectedPart].Position
+
+    end
+
+    return old(unpack(args))
+    end
+    return old(...)
+    end)
+
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if Settings.Kalslock.RESOVLER == true and Plr.Character ~= nil and enabled and Settings.Kalslock.Enabled then
+        if Settings.Kalslock.airshots == true and enabled and Plr.Character ~= nil then
+            
+        if game.Workspace.Players[Plr.Name].Humanoid:GetState() == Enum.HumanoidStateType.Freefall then -- Plr.Character:WaitForChild("Humanoid"):GetState() == Enum.HumanoidStateType.Freefall
+                
+
+
+        if Plr.Character ~= nil and Plr.Character.HumanoidRootPart.Anchored == true then
+        AnchorCount = AnchorCount + 1
+        if AnchorCount >= MaxAnchor then
+        Prediction = false
+        wait(2)
+        AnchorCount = 0;
+        end
+        else
+        Prediction = true
+        AnchorCount = 0;
+        end
+
+        SelectedPart = "LeftFoot"
+
+        else
+                
+
+        if Plr.Character ~= nil and Plr.Character.HumanoidRootPart.Anchored == true then
+        AnchorCount = AnchorCount + 1
+        if AnchorCount >= MaxAnchor then
+        Prediction = false
+        wait(2)
+        AnchorCount = 0;
+        end
+        
+        else
+        Prediction = true
+        AnchorCount = 0;
+        end
+
+        SelectedPart = "HumanoidRootPart"
+
+        end
+        else
+
+                
+
+        if Plr.Character ~= nil and Plr.Character.HumanoidRootPart.Anchored == true then
+        AnchorCount = AnchorCount + 1
+        if AnchorCount >= MaxAnchor then
+        Prediction = false
+        wait(2)
+        AnchorCount = 0;
+        end
+        else
+         Prediction = true
+         AnchorCount = 0;
+        end
+        SelectedPart = "HumanoidRootPart"
+        end
+        else
+        SelectedPart = "HumanoidRootPart"
+        end
+        end)
+
+        if Settings.Kalslock.NoBulletDelay == true then
+            local FuckDelay = game:GetService("CorePackages").Packages
+            FuckDelay:Destroy()
+        end
+
+        if Settings.Kalslock.Autoclicker == true then
+            local time = Settings.Kalslock.AutoclickerTime --decrease if too slow increase if too fast
+    
+            click = false
+            m = game.Players.LocalPlayer:GetMouse()
+            m.KeyDown:connect(function(key)
+            if key == Settings.Kalslock.AutoclickerKey then
+            if click == true then click = false
+            elseif
+            click == false then click = true
+            
+            while click == true do 
+            wait(time)
+            mouse1click()
+            end
+            end
+            end
+            end)
+        end
+        
+    print("Clicked")
+end)
+Section:NewButton("Funky friday not fix", "Funky friday auto players recommend 650 width", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
+    print("Clicked")
+end)
+Section:NewButton("Gods will", "Script", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/gods-will/main/main.lua'))()
+    print("Clicked")
+end)
+Section:NewButton("Jailbreak", "Script", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d214fceffa2f5e75046a674725be2ef7.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("Murder mystery 2 New hub", "Powerful script :)", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+    print("Clicked")
+end)
+Section:NewButton("My restaurant", "Farm", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://pastebin.com/raw/b0YukjEC"))()
+    print("Clicked")
+end)
+Section:NewButton("Piggy", "Give item", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  local PiggyGui = Instance.new("ScreenGui")
+PiggyGui.Name = "PiggyGui"
+PiggyGui.Parent = game.StarterGui
+ 
+local ScrollingFrame = Instance.new("ScrollingFrame", PiggyGui)
+ScrollingFrame.BackgroundColor3 = Color3.new(0.15, 0.15, 0.15)
+ScrollingFrame.Position = UDim2.new(0.08, 0, 0.42, 0)
+ScrollingFrame.Size = UDim2.new(0, 296, 0, 388)
+ 
+local PiggyGui = Instance.new("ScreenGui")
+PiggyGui.Name = "PiggyGui"
+PiggyGui.Parent = game.CoreGui
+ 
+local ScrollingFrame = Instance.new("ScrollingFrame", PiggyGui)
+ScrollingFrame.BackgroundColor3 = Color3.new(0.15, 0.15, 0.15)
+ScrollingFrame.Position = UDim2.new(0.08, 0, 0.42, 0)
+ScrollingFrame.Size = UDim2.new(0, 296, 0, 388)
+ 
+local UIGridLayout = Instance.new("UIGridLayout", ScrollingFrame)
+UIGridLayout.CellSize = UDim2.new(0,90,0,90)
+ 
+while wait(1) do
+local a = workspace:getDescendants()
+local items = {}
+local itemframes = ScrollingFrame:getChildren()
+for i=1,#itemframes do
+if itemframes[i].ClassName == "TextButton" then
+itemframes[i]:remove()
+end
+end
+for i=1,#a do
+if a[i].Name == "ItemPickupScript" and a[i].Parent:findFirstChild("ClickDetector") then
+table.insert(items, a[i].Parent)
+end
+end
+for i=1,#items do
+local ItemFrame = Instance.new("TextButton", ScrollingFrame)
+ItemFrame.Name = "ItemFrame"
+ItemFrame.BackgroundColor3 = Color3.new(1, 1, 1)
+ItemFrame.BackgroundTransparency = 0.95
+ItemFrame.Size = UDim2.new(0, 100, 0, 100)
+ItemFrame.Text = ""
+local View = Instance.new("ViewportFrame", ItemFrame)
+View.Name = "View"
+View.Size = UDim2.new(1,0,1,0)
+View.BackgroundTransparency = 1
+View.BorderSizePixel = 0
+local object = items[i]
+local viewportclone = object:Clone()
+viewportclone.Parent = View
+local cam = Instance.new("Camera", viewportclone)
+cam.CameraType = Enum.CameraType.Fixed
+local objectPosition = object.Position
+local cameraPosition = objectPosition + Vector3.new(0,3,0)
+cam.CoordinateFrame = CFrame.new(cameraPosition, objectPosition)
+View.CurrentCamera = cam
+ 
+ItemFrame.MouseButton1Down:connect(function()
+if items[i]:findFirstChild("ClickDetector") then
+local cpos = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+wait(0.05)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = items[i].CFrame
+wait(0.1)
+fireclickdetector(items[i].ClickDetector)
+wait(0.3)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = cpos
+end
+end)
+end
+end
+    print("Clicked")
+end)
+Section:NewButton("project slayer", "script", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  local LoaderUrl = "https://raw.githubusercontent.com/ogamertv12/SylveonHub/main/Mobile.lua"
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet(LoaderUrl))()
+    print("Clicked")
+end)
+Section:NewButton("Pet simulator X nuke hub old", "Pet script all", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+    print("Clicked")
+end)
+Section:NewButton("rainbow friend", "Auto win", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Keparetiolpxe/rbxscript/main/RainbowFriendsKEPA"))()
+    print("Clicked")
+end)
+Section:NewButton("Race clicker", "Farm", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet(('https://raw.githubusercontent.com/Saaakai/Random-Roblox-Script/main/Race%20Clicker')))()
+    print("Clicked")
+end)
+Section:NewButton("Tower of hell", "Auto win", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet('https://pastebin.com/raw/BbVHjH56'))()
+    print("Clicked")
+end)
+Section:NewButton("Tea hub key in desc", "Key- Milk and Cookies", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/RedCoat8102/Britishhub/main/Protected_8899696625455657.lua.txt"))()
+    print("Clicked")
+end)
+Section:NewButton("work at pizza place", "Farm", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://pastebin.com/raw/xQTtE6D9"))()
+ 
+--Sub 2 _k1ran
+    print("Clicked")
+end)
+  
+  
+local Tab = Window:NewTab("OTHER HUBS/FE")
+local Section = Tab:NewSection("HUBS")
+Section:NewButton("UTG", "SOME FE SCRIPT", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Hub...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  -- FE Ultimate Trolling GUI | Free Hats & No Hats Scripts | youtube: darkModz
+loadstring(game:HttpGet("https://gist.githubusercontent.com/dark-modz/3e50ce0fdd03713dfbeb1845ee6f52d7/raw/630318908f56a984db9568a89e33eadb7998158a/feutg1",true))()
+    print("Clicked")
+end)
+Section:NewButton("c00lkid Hub", "By c00lkid Gang Subscribe him:)", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Hub...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:GetObjects("rbxassetid://8127297852")[1].Source)()
+    print("Clicked")
+end)
+Section:NewButton("Emote hub", "Emote for R15", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing hub...R15 needed...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FEmotesGui/main/FEmotesGui.lua", true))()
+    print("Clicked")
+end)
+Section:NewButton("Infinite yield", "This can use for some important", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+    print("Clicked")
+end)
+Section:NewButton("Hat orbit)	", "Wow pretty good but get out", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Troll...";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+  loadstring(game:HttpGet('https://pastebin.com/raw/BsJ4xfXu'))()
+    print("Clicked")
+end)
+Section:NewButton("Chat bypasser", "Say what the f you want", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Troll...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/synnyyy/synergy/additional/betterbypasser", true))({
+    Method = 1, -- Method 1 is the main method. Method two is emojis. Method 3 is full transparency, no special symbols. Method 3 has been improved!
+    Keybind = "F", -- Usually defaulted to F. You can change this keybind by replacing the string with a letter. Works for uppercase and lowercase.
+    ShowMethodDictionary = true -- Shows you the full list of words that you can say with the method. Press FN + F9 to see this dictionary.
+})
+    print("Clicked")
+end)
+Section:NewButton("Fling", "Use this if hackers using R20 too|Not mine", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://pastebin.com/raw/saMtiek2",true))()
+    print("Clicked")
+end)
+Section:NewButton("Rojo abuse	", "troll", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Script...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  --Subscribe to Cheatsmith Zyron :))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BreApple/RobloxUI/main/SBRojoScript"))()
+    print("Clicked")
+end)
+Section:NewButton("Admin x troll script", "Fe script", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing troll";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/HubbyScripts/FE-Trolling-Hub/main/source"))()
+    print("Clicked")
+end)
+Section:NewButton("ADMIN troll", "Fe hubs", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "God troll...";
+               Color = Color3.fromRGB(0, 0, 0);
+           })
+  --[[ 
+Should work in any game with F3X Building Tools ...
+(although some games may have protection against this, trial and error ..)
+
+All features work best in these games: 
+https://roblox.com/games/4695287616/F3X-SandBox-F3X-Building-Tools-World (most active)
+https://www.roblox.com/games/6156255015/Angels-f3x (bigger servers)
+
+____
+ 
+YouTube : darkModz
+--]]
+ 
+loadstring(game:HttpGet("https://gist.githubusercontent.com/dark-modz/ab0ceb64571aac19d13291eb6d162cd5/raw/6b04805cd4049f06f91c5fb9742e8f6c66e2e34a/replicationgui",true))()
+    print("Clicked")
+end)
+  
+  
+local Tab = Window:NewTab("Legendary Hubs")
+local Section = Tab:NewSection("Only master, Grandmaster, Legendary Hub belongs here")
+local Section = Tab:NewSection("GOD TIER")
+Section:NewButton("GIGA CHAD SCRIPT 400,500+, HUB", "REAL CHAD SCRIPT!", function()
+   game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "GOD TIER...";
+               Color = Color3.fromRGB(0, 0, 0);
+           })
+-- Gigachad Hub V4 | 400-500+ Scripts | FE, Tons of Game Specific GUIs, Admin, More!
+loadstring(game:HttpGet('https://raw.githubusercontent.com/OWJBWKQLAISH/GigaChad-Hub/main/Gigachad%20Hub%20V4'))()
+    print("Clicked")
+end)
+local Section = Tab:NewSection("LEGENDARY")
+Section:NewButton("V.G hub	", "BEST HUBS!!!", function()
+   game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Legendary Script...";
+               Color = Color3.fromRGB(255, 0, 0);
+           })
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+    print("Clicked")
+end)
+Section:NewButton("Game hub V6.1	", "BY Takemodzz", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Legendary Script";
+               Color = Color3.fromRGB(255, 0, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/TakeModzz/Games-Hub-Script/main/Games%20Hub%20(Always%20updated)"))()
+    print("Clicked")
+end)
+local Section = Tab:NewSection("GRANDMASTER")
+Section:NewButton("Game hub	", "Gamescript", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing GRANDMASTER SCRIPT...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerScripter/Game-Hub/main/loader"))()
+    print("Clicked")
+end)
+local Section = Tab:NewSection("MASTER")
+Section:NewButton("Nuke hub", "So many features hub :)", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Master...";
+               Color = Color3.fromRGB(0, 0, 255);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader"))()
+    print("Clicked")
+end)
+              
+
+local Tab = Window:NewTab("MISC")
+local Section = Tab:NewSection("MISC | Useful from what game")
+Section:NewButton("FPS BOOST Fixed!", "Makes youre game better", function()
+  _G.Settings = {
+    Players = {
+        ["Ignore Me"] = true, -- Ignore your Character
+        ["Ignore Others"] = true-- Ignore other Characters
+    },
+    Meshes = {
+        Destroy = false, -- Destroy Meshes
+        LowDetail = true -- Low detail meshes (NOT SURE IT DOES ANYTHING)
+    },
+    Images = {
+        Invisible = true, -- Invisible Images
+        LowDetail = false, -- Low detail images (NOT SURE IT DOES ANYTHING)
+        Destroy = false, -- Destroy Images
+    },
+    ["No Particles"] = true, -- Disables all ParticleEmitter, Trail, Smoke, Fire and Sparkles
+    ["No Camera Effects"] = true, -- Disables all PostEffect's (Camera/Lighting Effects)
+    ["No Explosions"] = true, -- Makes Explosion's invisible
+    ["No Clothes"] = true, -- Removes Clothing from the game
+    ["Low Water Graphics"] = true, -- Removes Water Quality
+    ["No Shadows"] = true, -- Remove Shadows
+    ["Low Rendering"] = true, -- Lower Rendering
+    ["Low Quality Parts"] = true -- Lower quality parts
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+    print("Clicked")
+end)
+Section:NewButton("RTX	", "Bomb has been planted", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Misc...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  --[[Subscribe to Zaptosis on YouTube for more awesome scripts!
+Join our Discord: www.zaptosis.weebly.com
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+███▀▀▀███░░░░░░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░██░░░░░░░░░
+█▀░░░███░░░░░░░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+▀░░░███░░▄█▀██▄░▀████████▄██████░░▄██▀██▄░▄██▀██████░░▄██▀███
+░░░███░░██░░░██░░░██░░░▀██░░██░░░██▀░░░▀████░░░▀▀░██░░██░░░▀▀
+░░███░░░▄▄█████░░░██░░░░██░░██░░░██░░░░░██▀█████▄░██░░▀█████▄
+░███░░░▄██░░░██░░░██░░░▄██░░██░░░██▄░░░▄███▄░░░██░██░░█▄░░░██
+█████████████▀██▄░██████▀░░░▀████░▀█████▀░██████▀████▄██████▀
+░░░░░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░▄████▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+]]
+local find1 = game.Lighting:FindFirstChildWhichIsA("BloomEffect") if find1 then
+    game.Lighting:FindFirstChildWhichIsA("BloomEffect"):Destroy()
+end
+local find2 = game.Lighting:FindFirstChildWhichIsA("SunRaysEffect") if find2 then
+    game.Lighting:FindFirstChildWhichIsA("SunRaysEffect"):Destroy()
+end
+local find3 = game.Lighting:FindFirstChildWhichIsA("ColorCorrectionEffect") if find3 then
+    game.Lighting:FindFirstChildWhichIsA("ColorCorrectionEffect"):Destroy()
+end
+local find4 = game.Lighting:FindFirstChildWhichIsA("BlurEffect") if find4 then
+    game.Lighting:FindFirstChildWhichIsA("BlurEffect"):Destroy()
+end
+local find5 = game.Lighting:FindFirstChildWhichIsA("Sky") if find5 then
+    game.Lighting:FindFirstChildWhichIsA("Sky"):Destroy()
+end
+local blem = Instance.new("BloomEffect",game.Lighting)
+local sanrey = Instance.new("SunRaysEffect",game.Lighting)
+local color = Instance.new("ColorCorrectionEffect",game.Lighting)
+local blor = Instance.new("BlurEffect",game.Lighting)
+Instance.new("Sky",game.Lighting)
+game.Lighting.ExposureCompensation = 0.34
+game.Lighting.ShadowSoftness = 1
+game.Lighting.EnvironmentDiffuseScale = 0.343
+game.Lighting.EnvironmentSpecularScale = 1
+game.Lighting.Brightness = 2
+game.Lighting.ColorShift_Top = Color3.fromRGB(118,117,108)
+game.Lighting.OutdoorAmbient = Color3.fromRGB(141,141,141)
+game.Lighting.GeographicLatitude = 100
+game.Lighting.Ambient = Color3.fromRGB(112,112,112)
+blem.Intensity = 0.5
+blem.Size = 22
+blem.Threshold = 1.5
+sanrey.Intensity = 0.117
+sanrey.Spread = 1
+blor.Size = 2
+color.Contrast = 0.3
+color.Saturation = 0.2
+color.TintColor = Color3.fromRGB(255,252,224)
+    print("Clicked")
+end)
+Section:NewButton("Keyboard", "keyboard mobile", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Misc...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+    print("Clicked")
+end)
+Section:NewButton("Anti fling", "Any fling cant fling you im fling and fling", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Misc...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  -- // Constants \\ --
+-- [ Services ] --
+local Services = setmetatable({}, {__index = function(Self, Index)
+local NewService = game.GetService(game, Index)
+if NewService then
+Self[Index] = NewService
+end
+return NewService
+end})
+
+-- [ LocalPlayer ] --
+local LocalPlayer = Services.Players.LocalPlayer
+
+-- // Functions \\ --
+local function PlayerAdded(Player)
+   local Detected = false
+   local Character;
+   local PrimaryPart;
+
+   local function CharacterAdded(NewCharacter)
+       Character = NewCharacter
+       repeat
+           wait()
+           PrimaryPart = NewCharacter:FindFirstChild("HumanoidRootPart")
+       until PrimaryPart
+       Detected = false
+   end
+
+   CharacterAdded(Player.Character or Player.CharacterAdded:Wait())
+   Player.CharacterAdded:Connect(CharacterAdded)
+   Services.RunService.Heartbeat:Connect(function()
+       if (Character and Character:IsDescendantOf(workspace)) and (PrimaryPart and PrimaryPart:IsDescendantOf(Character)) then
+           if PrimaryPart.AssemblyAngularVelocity.Magnitude > 50 or PrimaryPart.AssemblyLinearVelocity.Magnitude > 100 then
+               if Detected == false then
+                   game.StarterGui:SetCore("ChatMakeSystemMessage", {
+                       Text = "Someone is flinging, Player: " .. tostring(Player);
+                       Color = Color3.fromRGB(255, 200, 0);
+                   })
+               end
+               Detected = true
+               for i,v in ipairs(Character:GetDescendants()) do
+                   if v:IsA("BasePart") then
+                       v.CanCollide = false
+                       v.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+                       v.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                       v.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0)
+                   end
+               end
+               PrimaryPart.CanCollide = false
+               PrimaryPart.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+               PrimaryPart.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+               PrimaryPart.CustomPhysicalProperties = PhysicalProperties.new(0, 0, 0)
+           end
+       end
+   end)
+end
+
+-- // Event Listeners \\ --
+for i,v in ipairs(Services.Players:GetPlayers()) do
+   if v ~= LocalPlayer then
+       PlayerAdded(v)
+   end
+end
+Services.Players.PlayerAdded:Connect(PlayerAdded)
+
+local LastPosition = nil
+Services.RunService.Heartbeat:Connect(function()
+   pcall(function()
+       local PrimaryPart = LocalPlayer.Character.PrimaryPart
+       if PrimaryPart.AssemblyLinearVelocity.Magnitude > 250 or PrimaryPart.AssemblyAngularVelocity.Magnitude > 250 then
+           PrimaryPart.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+           PrimaryPart.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+           PrimaryPart.CFrame = LastPosition
+
+           game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "You are using fling too.Anti.";
+               Color = Color3.fromRGB(255, 0, 0);
+           })
+       elseif PrimaryPart.AssemblyLinearVelocity.Magnitude < 50 or PrimaryPart.AssemblyAngularVelocity.Magnitude > 50 then
+           LastPosition = PrimaryPart.CFrame
+       end
+   end)
+end)
+    print("Clicked")
+end)
+Section:NewButton("Fly android", "Destroy hackers using fly", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Misc...";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  loadstring(game:HttpGet("https://pastebin.com/raw/QGLvkvU7", true))()
+    print("Clicked")
+end)
+Section:NewButton("Rejoin button", "After get discon or kick.", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Executing Misc...If you got kicked oe discon.";
+               Color = Color3.fromRGB(0, 255, 0);
+           })
+  --Auto execute highly recommended (use it)
+gui = game.CoreGui.RobloxPromptGui.promptOverlay:WaitForChild("ErrorPrompt")
+
+gui.Size = UDim2.new(0, 400, 0, 230)
+
+leave = gui.MessageArea.ErrorFrame.ButtonArea.LeaveButton
+
+gui.MessageArea.MessageAreaPadding.PaddingTop = UDim.new(0,-20)
+gui.MessageArea.ErrorFrame.ErrorFrameLayout.Padding = UDim.new(0, 5)
+
+gui.MessageArea.ErrorFrame.ButtonArea.ButtonLayout.CellPadding = UDim2.new(0, 0, 0, 5)
+
+rejoin = leave:Clone()
+rejoin.Parent = leave.Parent
+rejoin.ButtonText.Text = "Rejoin"
+
+Players = game:GetService("Players")
+TeleportService = game:GetService("TeleportService")
+
+rejoin.MouseButton1Up:Connect(function()
+	if #Players:GetPlayers() <= 1 then
+		TeleportService:Teleport(game.PlaceId, Players.LocalPlayer)
+	else
+		TeleportService:TeleportToPlaceInstance(game.PlaceId, game.JobId, Players.LocalPlayer)
+	end
+end)
+    print("Clicked")
+end)
+  
+  
+local Tab = Window:NewTab("Versions")
+local Section = Tab:NewSection("All versions THCBB LIB/HUB")
+Section:NewButton("THCBB V1", "Old THCBB", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Downgrading to V1 THCBB...";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+  loadstring(game:HttpGet("https://pastebin.com/raw/Cs3Cd1hH"))();
+    print("Clicked")
+end)
+Section:NewButton("THCBB V2", "Old THCBB", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Downgrading To V2 THCBB";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+  loadstring(game:HttpGet("https://pastebin.com/raw/Fzx5xfB6"))();
+    print("Clicked")
+end)
+Section:NewButton("THCBB V3 Current!!!", "Current using...", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "CURRENT USING";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V4 Not available!", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V5 Not available!", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V6 Not available!", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V7 Not available!", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V8 Not available!", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V9 Not available!", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V10 Not available", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+Section:NewButton("THCBB V11 premuim Not available", "Not available", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "NOT AVAILABLE!!!";
+               Color = Color3.fromRGB(255, 255, 0);
+           })
+    print("Clicked")
+end)
+  
+local Tab = Window:NewTab("SETTINGS")
+local Section = Tab:NewSection("Make something...")
+Section:NewSlider("Speedhacks", "Makes you fast", 500, 16, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+end)
+Section:NewSlider("Jumphacks", "Makes you jump high", 350, 50, function(s) -- 500 (MaxValue) | 0 (MinValue)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+end)
+Section:NewButton("Reset Sh/Jh", "Resets to default", function()
+  game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Makin it default...";
+               Color = Color3.fromRGB(255, 0, 0);
+           })
+  game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+  game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+end) 
